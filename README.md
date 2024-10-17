@@ -3,6 +3,9 @@
 
 This is a simple GUI-based steganographic forensic tool built with Python, which allows users to hide and reveal messages within images. The tool uses the Least Significant Bit (LSB) method for steganography.
 
+## Video Demo
+https://youtu.be/usKikeawh9A
+
 ## Contributors
 
 [Abdur Rehman Rehan](https://github.com/Abdur-Rehman-Rehan)  
